@@ -13,6 +13,12 @@ body {
   color: #399bd1;
 }
 
+@media only screen and (max-width: 768px) {
+  nav .navbar-brand {
+    display: none;
+  }
+}
+
 .jumbotron {
   padding: 11.85rem 0 18.25rem 0;
   text-align: center;
