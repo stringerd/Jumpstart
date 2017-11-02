@@ -41,7 +41,7 @@ body {
 }
 
 .jumbotron p {
-  width: 51.3rem;
+  max-width: 51.3rem;
   margin: 0 auto;
 }
 
